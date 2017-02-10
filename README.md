@@ -1,0 +1,2 @@
+# macos-dictionaries
+macOS dictionaries
